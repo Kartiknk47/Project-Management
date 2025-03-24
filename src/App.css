@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to right, white, lightblue,violet);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
